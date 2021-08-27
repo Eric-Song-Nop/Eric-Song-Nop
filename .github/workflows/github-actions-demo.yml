@@ -1,6 +1,7 @@
 name: Ericoolen Readme
 
 on:
+  push:
   schedule:
     # Runs at 12am IST
     - cron: '30 18 * * *'
