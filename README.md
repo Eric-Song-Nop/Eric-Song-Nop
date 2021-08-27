@@ -1,5 +1,5 @@
-# Ericoolen
-Coding or gaming！
+# Hi, it's Ericoolen!
+Coding and gaming！
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
