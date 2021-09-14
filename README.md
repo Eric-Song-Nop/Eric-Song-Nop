@@ -2,7 +2,7 @@
 Coding and gaming！
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-59-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-49-blue)
 
 **I'm a Night 🦉** 
 
@@ -38,6 +38,6 @@ Linux                    25 mins             ████░░░░░░░�
 ```
 
 
- Last Updated on 13/09/2021
+ Last Updated on 14/09/2021
 <!--END_SECTION:waka-->
 
