@@ -2,7 +2,7 @@
 Coding and gaming！
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 **I'm a Night 🦉** 
 
@@ -41,6 +41,6 @@ Windows                  10 hrs 16 mins      ███████████�
 ```
 
 
- Last Updated on 15/10/2021
+ Last Updated on 16/10/2021
 <!--END_SECTION:waka-->
 
