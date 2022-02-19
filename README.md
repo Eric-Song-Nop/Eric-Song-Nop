@@ -2,8 +2,6 @@
 Coding and gaming！
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%207%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **I'm a Night 🦉** 
@@ -41,6 +39,6 @@ Linux                    1 hr 19 mins        ████░░░░░░░�
 ```
 
 
- Last Updated on 19/02/2022 15:59:05 UTC
+ Last Updated on 19/02/2022 16:00:51 UTC
 <!--END_SECTION:waka-->
 
