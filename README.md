@@ -2,8 +2,6 @@
 Coding and gaming！
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-184%20hrs%2058%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **I'm a Night 🦉** 
@@ -36,6 +34,6 @@ Windows                  22 mins             ███████████�
 ```
 
 
- Last Updated on 04/03/2022 20:42:40 UTC
+ Last Updated on 05/03/2022 18:45:35 UTC
 <!--END_SECTION:waka-->
 
