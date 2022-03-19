@@ -2,6 +2,8 @@
 Coding and gaming！
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-188%20hrs%2043%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **I'm a Night 🦉** 
@@ -21,17 +23,20 @@ Coding and gaming！
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     1 min               █████████████████░░░░░░░░   68.04% 
+C++                      0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.59% 
+Other                    0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.37% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   1 min               █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 min               █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 19/03/2022 16:00:41 UTC
+ Last Updated on 19/03/2022 16:02:44 UTC
 <!--END_SECTION:waka-->
 
