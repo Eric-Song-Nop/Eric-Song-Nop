@@ -4,9 +4,9 @@ Coding and gaming！
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2036%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-orange)
 
-**I'm a Night 🦉** 
+**I'm a night 🦉** 
 
 ```text
 🌞 Morning    28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.97% 
@@ -17,7 +17,7 @@ Coding and gaming！
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
@@ -40,6 +40,6 @@ Windows                  1 hr 32 mins        ████░░░░░░░�
 ```
 
 
- Last Updated on 12/06/2022 07:36:09 UTC
+ Last Updated on 12/06/2022 07:38:14 UTC
 <!--END_SECTION:waka-->
 
