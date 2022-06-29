@@ -2,7 +2,7 @@
 Coding and gaming！
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-319%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -23,20 +23,17 @@ Coding and gaming！
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C                        36 mins             ███████████████████████░░   92.47% 
-Makefile                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.46% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.07% 
-Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   38 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    38 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 29/06/2022 16:02:26 UTC
+ Last Updated on 29/06/2022 16:05:13 UTC
 <!--END_SECTION:waka-->
 
