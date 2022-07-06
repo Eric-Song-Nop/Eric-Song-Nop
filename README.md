@@ -2,7 +2,7 @@
 Coding and gaming！
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -34,6 +34,6 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/07/2022 06:05:08 UTC
+ Last Updated on 06/07/2022 06:07:04 UTC
 <!--END_SECTION:waka-->
 
