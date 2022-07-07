@@ -2,7 +2,7 @@
 Coding and gaming！
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -23,17 +23,17 @@ Coding and gaming！
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       26 mins             █████████████████████████   100.0%
+C#                       42 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-Rider                    26 mins             █████████████████████████   100.0%
+Rider                    42 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  26 mins             █████████████████████████   100.0%
+Windows                  42 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 07/07/2022 16:00:41 UTC
+ Last Updated on 07/07/2022 16:02:57 UTC
 <!--END_SECTION:waka-->
 
