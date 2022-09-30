@@ -2,7 +2,7 @@
 Coding and gaming！
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-408%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-406%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -40,6 +40,6 @@ Linux                    6 hrs 47 mins       ███████████�
 ```
 
 
- Last Updated on 29/09/2022 21:29:59 UTC
+ Last Updated on 30/09/2022 18:58:30 UTC
 <!--END_SECTION:waka-->
 
