@@ -4,7 +4,7 @@ Coding and gaming！
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-590%20hrs%2011%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
@@ -34,6 +34,6 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 05/01/2023 14:59:59 UTC
+ Last Updated on 05/01/2023 15:01:43 UTC
 <!--END_SECTION:waka-->
 
