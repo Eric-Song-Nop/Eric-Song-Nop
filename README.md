@@ -23,17 +23,20 @@ Coding and gaming！
 ⌚︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Lean                     1 hr 58 mins        ████████████████████████░   98.19% 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.75% 
+systemd                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs               █████████████████████████   99.93% 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs               █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 06/01/2023 23:00:33 UTC
+ Last Updated on 06/01/2023 23:02:04 UTC
 <!--END_SECTION:waka-->
 
