@@ -2,7 +2,7 @@
 Coding and gaming！
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-641%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-641%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -43,6 +43,6 @@ Windows                  4 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 22/01/2023 19:40:18 UTC
+ Last Updated on 22/01/2023 19:42:35 UTC
 <!--END_SECTION:waka-->
 
