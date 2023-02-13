@@ -23,17 +23,19 @@ Coding and gaming！
 ⌚︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Cuda                     0 secs              ██████████████████████░░░   89.38 % 
+ObjectiveC               0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+CLion                    0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    0 secs              █████████████████████████   100.00 % 
 
 ```
 
 
- Last Updated on 13/02/2023 23:00:39 UTC
+ Last Updated on 13/02/2023 23:02:23 UTC
 <!--END_SECTION:waka-->
 
