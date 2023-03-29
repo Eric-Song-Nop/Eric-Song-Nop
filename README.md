@@ -2,7 +2,7 @@
 Coding and gaming！
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-718%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-720%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
@@ -23,7 +23,7 @@ Coding and gaming！
 
 💬 Programming Languages: 
 C++                      6 hrs 45 mins       █████████████░░░░░░░░░░░░   53.29 % 
-Python                   2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
+Python                   2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
 Jupyter                  1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
 Markdown                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
 Bash                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
@@ -40,6 +40,6 @@ Windows                  19 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/03/2023 18:41:48 UTC
+ Last Updated on 29/03/2023 18:44:39 UTC
 <!--END_SECTION:waka-->
 
