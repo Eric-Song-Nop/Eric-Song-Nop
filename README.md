@@ -8,7 +8,7 @@ Coding and gaming！
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C422%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C425%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -35,8 +35,8 @@ Python                   35 mins             ██░░░░░░░░░�
 Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 43 mins       █████████████░░░░░░░░░░░░   51.48 % 
-Neovim                   3 hrs 30 mins       ████████████░░░░░░░░░░░░░   48.52 % 
+VS Code                  3 hrs 43 mins       █████████████░░░░░░░░░░░░   51.49 % 
+Neovim                   3 hrs 30 mins       ████████████░░░░░░░░░░░░░   48.51 % 
 
 💻 Operating System: 
 Linux                    5 hrs 26 mins       ███████████████████░░░░░░   75.05 % 
@@ -44,5 +44,5 @@ Windows                  1 hr 48 mins        ██████░░░░░�
 ```
 
 
- Last Updated on 02/08/2024 18:43:33 UTC
+ Last Updated on 03/08/2024 18:42:24 UTC
 <!--END_SECTION:waka-->
