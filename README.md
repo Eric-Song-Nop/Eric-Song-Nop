@@ -15,10 +15,10 @@ Coding and gaming！
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2946 commits        ████████░░░░░░░░░░░░░░░░░   30.59 % 
-🌆 Daytime                2572 commits        ███████░░░░░░░░░░░░░░░░░░   26.70 % 
-🌃 Evening                2561 commits        ███████░░░░░░░░░░░░░░░░░░   26.59 % 
-🌙 Night                  1553 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+🌞 Morning                2958 commits        ████████░░░░░░░░░░░░░░░░░   30.56 % 
+🌆 Daytime                2580 commits        ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+🌃 Evening                2567 commits        ███████░░░░░░░░░░░░░░░░░░   26.52 % 
+🌙 Night                  1575 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
 ```
 
 
@@ -28,19 +28,19 @@ Coding and gaming！
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Markdown                 52 mins             ███████████████░░░░░░░░░░   60.26 % 
-JSON                     19 mins             ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
-TypeScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Text                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Markdown                 41 mins             ██████████████░░░░░░░░░░░   54.65 % 
+JSON                     19 mins             ███████░░░░░░░░░░░░░░░░░░   26.05 % 
+TypeScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Text                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 🔥 Editors: 
-Neovim                   1 hr 27 mins        █████████████████████████   100.00 % 
+Neovim                   1 hr 16 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 27 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 16 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/03/2026 19:07:08 UTC
+ Last Updated on 15/03/2026 19:08:28 UTC
 <!--END_SECTION:waka-->
