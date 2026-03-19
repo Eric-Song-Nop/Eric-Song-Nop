@@ -8,17 +8,17 @@ Coding and gaming！
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C152%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C153%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3893 commits        ████████░░░░░░░░░░░░░░░░░   31.90 % 
-🌆 Daytime                3242 commits        ███████░░░░░░░░░░░░░░░░░░   26.57 % 
-🌃 Evening                3196 commits        ███████░░░░░░░░░░░░░░░░░░   26.19 % 
-🌙 Night                  1873 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+🌞 Morning                4078 commits        ████████░░░░░░░░░░░░░░░░░   32.07 % 
+🌆 Daytime                3375 commits        ███████░░░░░░░░░░░░░░░░░░   26.54 % 
+🌃 Evening                3335 commits        ███████░░░░░░░░░░░░░░░░░░   26.23 % 
+🌙 Night                  1927 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
 ```
 
 
@@ -28,17 +28,17 @@ Coding and gaming！
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-JSON                     16 mins             █████████████░░░░░░░░░░░░   50.45 % 
-Markdown                 13 mins             ███████████░░░░░░░░░░░░░░   42.27 % 
-Text                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+JSON                     16 mins             ████████████████████░░░░░   81.68 % 
+Text                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
 
 🔥 Editors: 
-Neovim                   33 mins             █████████████████████████   100.00 % 
+Neovim                   20 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      33 mins             █████████████████████████   100.00 % 
+Mac                      20 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/03/2026 19:12:48 UTC
+ Last Updated on 19/03/2026 19:15:48 UTC
 <!--END_SECTION:waka-->
