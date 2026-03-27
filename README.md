@@ -15,10 +15,10 @@ Coding and gaming！
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3768 commits        ████████░░░░░░░░░░░░░░░░░   31.61 % 
-🌆 Daytime                3133 commits        ███████░░░░░░░░░░░░░░░░░░   26.28 % 
-🌃 Evening                3128 commits        ███████░░░░░░░░░░░░░░░░░░   26.24 % 
-🌙 Night                  1893 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+🌞 Morning                3792 commits        ████████░░░░░░░░░░░░░░░░░   31.37 % 
+🌆 Daytime                3152 commits        ███████░░░░░░░░░░░░░░░░░░   26.08 % 
+🌃 Evening                3138 commits        ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
+🌙 Night                  2005 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
 ```
 
 
@@ -28,22 +28,20 @@ Coding and gaming！
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-JSON                     1 hr 39 mins        █████████░░░░░░░░░░░░░░░░   37.62 % 
-Markdown                 38 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-TypeScript               30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Other                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-kdl                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+JSON                     1 hr 23 mins        ██████████░░░░░░░░░░░░░░░   38.91 % 
+TypeScript               30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Markdown                 23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+kdl                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Bash                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 21 mins       █████████████████████████   98.77 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Neovim                   3 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 17 mins       ███████████████████░░░░░░   74.78 % 
-Linux                    1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
-Windows                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Mac                      2 hrs 30 mins       ██████████████████░░░░░░░   70.06 % 
+Linux                    1 hr 4 mins         ███████░░░░░░░░░░░░░░░░░░   29.94 % 
 ```
 
 
- Last Updated on 26/03/2026 19:25:00 UTC
+ Last Updated on 27/03/2026 19:17:57 UTC
 <!--END_SECTION:waka-->
