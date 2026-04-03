@@ -10,15 +10,15 @@ Coding and gaming！
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C171%20hrs%2042%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3833 commits        ████████░░░░░░░░░░░░░░░░░   31.21 % 
-🌆 Daytime                3194 commits        ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
-🌃 Evening                3175 commits        ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
-🌙 Night                  2081 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+🌞 Morning                3785 commits        ████████░░░░░░░░░░░░░░░░░   31.23 % 
+🌆 Daytime                3162 commits        ███████░░░░░░░░░░░░░░░░░░   26.09 % 
+🌃 Evening                3171 commits        ███████░░░░░░░░░░░░░░░░░░   26.17 % 
+🌙 Night                  2001 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
 ```
 
 
@@ -28,21 +28,22 @@ Coding and gaming！
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Markdown                 3 hrs 36 mins       ███████████████░░░░░░░░░░   59.92 % 
-TypeScript               53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-sh                       20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+Other                    5 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   39.37 % 
+Markdown                 5 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   38.59 % 
+TypeScript               1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+sh                       20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 🔥 Editors: 
-Unknown Editor           3 hrs 34 mins       ███████████████░░░░░░░░░░   59.16 % 
-Neovim                   2 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   40.84 % 
+Neovim                   8 hrs 40 mins       ███████████████░░░░░░░░░░   60.69 % 
+Unknown Editor           3 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
+Vim                      2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
 
 💻 Operating System: 
-Linux                    5 hrs 51 mins       ████████████████████████░   97.16 % 
-Mac                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Linux                    14 hrs 7 mins       █████████████████████████   98.80 % 
+Mac                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 ```
 
 
- Last Updated on 02/04/2026 19:21:03 UTC
+ Last Updated on 03/04/2026 19:20:33 UTC
 <!--END_SECTION:waka-->
