@@ -15,10 +15,10 @@ Coding and gaming！
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3786 commits        ████████░░░░░░░░░░░░░░░░░   31.35 % 
-🌆 Daytime                3166 commits        ███████░░░░░░░░░░░░░░░░░░   26.21 % 
-🌃 Evening                3098 commits        ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
-🌙 Night                  2028 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
+🌞 Morning                3792 commits        ████████░░░░░░░░░░░░░░░░░   31.16 % 
+🌆 Daytime                3170 commits        ███████░░░░░░░░░░░░░░░░░░   26.05 % 
+🌃 Evening                3098 commits        ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+🌙 Night                  2111 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
 ```
 
 
@@ -28,21 +28,21 @@ Coding and gaming！
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Other                    5 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   40.91 % 
-Markdown                 5 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   38.52 % 
-TypeScript               1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
-sh                       20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Other                    5 hrs 37 mins       ███████████░░░░░░░░░░░░░░   44.15 % 
+Markdown                 4 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   35.16 % 
+TypeScript               1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+sh                       15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 🔥 Editors: 
-Neovim                   8 hrs 8 mins        ███████████████░░░░░░░░░░   59.15 % 
-Unknown Editor           3 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
-Vim                      2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Neovim                   7 hrs 7 mins        ██████████████░░░░░░░░░░░   55.92 % 
+Unknown Editor           3 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+Vim                      2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
 
 💻 Operating System: 
-Linux                    13 hrs 45 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/04/2026 19:19:09 UTC
+ Last Updated on 08/04/2026 19:20:49 UTC
 <!--END_SECTION:waka-->
