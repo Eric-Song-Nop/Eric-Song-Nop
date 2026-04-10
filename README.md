@@ -15,10 +15,10 @@ Coding and gaming！
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3792 commits        ████████░░░░░░░░░░░░░░░░░   31.27 % 
-🌆 Daytime                3170 commits        ███████░░░░░░░░░░░░░░░░░░   26.14 % 
-🌃 Evening                3102 commits        ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
-🌙 Night                  2063 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+🌞 Morning                3792 commits        ████████░░░░░░░░░░░░░░░░░   31.25 % 
+🌆 Daytime                3170 commits        ███████░░░░░░░░░░░░░░░░░░   26.12 % 
+🌃 Evening                3103 commits        ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
+🌙 Night                  2071 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
 ```
 
 
@@ -28,20 +28,17 @@ Coding and gaming！
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Other                    5 hrs 19 mins       ████████████████░░░░░░░░░   64.37 % 
-Markdown                 1 hr 54 mins        ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-TypeScript               57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Docker                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Other                    5 mins              ███████████████████████░░   91.71 % 
+Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 🔥 Editors: 
-Neovim                   6 hrs 13 mins       ███████████████████░░░░░░   75.21 % 
-Vim                      2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
+Neovim                   6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    8 hrs 16 mins       █████████████████████████   100.00 % 
+Linux                    6 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/04/2026 19:16:55 UTC
+ Last Updated on 10/04/2026 19:14:29 UTC
 <!--END_SECTION:waka-->
