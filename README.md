@@ -8,17 +8,17 @@ Coding and gaming！
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C174%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C178%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3792 commits        ████████░░░░░░░░░░░░░░░░░   31.22 % 
-🌆 Daytime                3170 commits        ███████░░░░░░░░░░░░░░░░░░   26.10 % 
-🌃 Evening                3106 commits        ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
-🌙 Night                  2079 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+🌞 Morning                3820 commits        ████████░░░░░░░░░░░░░░░░░   31.32 % 
+🌆 Daytime                3173 commits        ███████░░░░░░░░░░░░░░░░░░   26.02 % 
+🌃 Evening                3108 commits        ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
+🌙 Night                  2095 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
 ```
 
 
@@ -28,17 +28,19 @@ Coding and gaming！
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Other                    5 mins              ███████████████████████░░   91.71 % 
-Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Other                    2 hrs 4 mins        █████████████████████░░░░   82.45 % 
+Markdown                 20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-Neovim                   6 mins              █████████████████████████   100.00 % 
+Neovim                   2 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 mins              █████████████████████████   100.00 % 
+Linux                    2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/04/2026 19:20:29 UTC
+ Last Updated on 14/04/2026 19:20:15 UTC
 <!--END_SECTION:waka-->
