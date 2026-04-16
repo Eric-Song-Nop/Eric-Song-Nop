@@ -28,19 +28,19 @@ Coding and gaming！
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Other                    4 hrs 54 mins       ██████████████████░░░░░░░   71.14 % 
-Markdown                 1 hr                ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-TypeScript               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-kdl                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Other                    5 hrs 29 mins       ████████████████░░░░░░░░░   63.46 % 
+Markdown                 1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+TypeScript               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+tmux                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔥 Editors: 
-Neovim                   6 hrs 54 mins       █████████████████████████   100.00 % 
+Neovim                   8 hrs 38 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs 54 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/04/2026 19:21:24 UTC
+ Last Updated on 16/04/2026 19:21:53 UTC
 <!--END_SECTION:waka-->
