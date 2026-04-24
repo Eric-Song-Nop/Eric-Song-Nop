@@ -15,10 +15,10 @@ Coding and gaming！
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3862 commits        ████████░░░░░░░░░░░░░░░░░   31.34 % 
-🌆 Daytime                3190 commits        ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
-🌃 Evening                3127 commits        ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
-🌙 Night                  2145 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+🌞 Morning                3862 commits        ████████░░░░░░░░░░░░░░░░░   31.30 % 
+🌆 Daytime                3190 commits        ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
+🌃 Evening                3127 commits        ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
+🌙 Night                  2161 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
 ```
 
 
@@ -28,20 +28,20 @@ Coding and gaming！
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-TypeScript               3 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   29.58 % 
-Lua                      2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
-Markdown                 1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-Rust                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-JSON                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+TypeScript               3 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   28.22 % 
+Lua                      2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+Markdown                 1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Rust                     1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+JSON                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
 
 🔥 Editors: 
-Neovim                   11 hrs 9 mins       █████████████████████████   100.00 % 
+Neovim                   10 hrs 56 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs 33 mins       █████████████████████░░░░   85.77 % 
-Mac                      1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Linux                    9 hrs 33 mins       ██████████████████████░░░   87.43 % 
+Mac                      1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
 ```
 
 
- Last Updated on 23/04/2026 19:19:07 UTC
+ Last Updated on 24/04/2026 19:16:30 UTC
 <!--END_SECTION:waka-->
