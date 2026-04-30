@@ -8,17 +8,17 @@ Coding and gaming！
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C191%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C191%20hrs%2037%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3868 commits        ████████░░░░░░░░░░░░░░░░░   31.21 % 
-🌆 Daytime                3194 commits        ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
-🌃 Evening                3137 commits        ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
-🌙 Night                  2196 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+🌞 Morning                3868 commits        ████████░░░░░░░░░░░░░░░░░   31.22 % 
+🌆 Daytime                3194 commits        ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
+🌃 Evening                3137 commits        ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
+🌙 Night                  2192 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
 ```
 
 
@@ -28,19 +28,15 @@ Coding and gaming！
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-TypeScript               28 mins             ███████████░░░░░░░░░░░░░░   44.51 % 
-Markdown                 15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
-JSON                     10 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Other                    8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   1 hr 4 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 4 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 29/04/2026 19:33:47 UTC
+ Last Updated on 30/04/2026 19:33:09 UTC
 <!--END_SECTION:waka-->
