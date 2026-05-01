@@ -8,17 +8,17 @@ Coding and gaming！
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C191%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C192%20hrs%2051%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                3868 commits        ████████░░░░░░░░░░░░░░░░░   31.22 % 
 🌆 Daytime                3194 commits        ██████░░░░░░░░░░░░░░░░░░░   25.78 % 
-🌃 Evening                3137 commits        ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
-🌙 Night                  2192 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+🌃 Evening                3138 commits        ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
+🌙 Night                  2188 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
 ```
 
 
@@ -28,15 +28,17 @@ Coding and gaming！
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               18 mins             ████████████████████████░   94.39 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   19 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    19 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/04/2026 19:33:09 UTC
+ Last Updated on 01/05/2026 19:25:33 UTC
 <!--END_SECTION:waka-->
