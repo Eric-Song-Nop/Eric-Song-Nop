@@ -15,10 +15,10 @@ Coding and gaming！
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4478 commits        ███████░░░░░░░░░░░░░░░░░░   29.94 % 
-🌆 Daytime                4101 commits        ███████░░░░░░░░░░░░░░░░░░   27.42 % 
-🌃 Evening                3783 commits        ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
-🌙 Night                  2596 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+🌞 Morning                4540 commits        ████████░░░░░░░░░░░░░░░░░   30.16 % 
+🌆 Daytime                4103 commits        ███████░░░░░░░░░░░░░░░░░░   27.26 % 
+🌃 Evening                3793 commits        ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+🌙 Night                  2618 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
 ```
 
 
@@ -28,20 +28,20 @@ Coding and gaming！
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Markdown                 10 hrs 23 mins      ███████████░░░░░░░░░░░░░░   43.41 % 
-TypeScript               9 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   39.11 % 
-Other                    1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-JSON                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-YAML                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+TypeScript               10 hrs 1 min        ██████████░░░░░░░░░░░░░░░   39.46 % 
+Markdown                 9 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   39.32 % 
+Other                    1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+JSON                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+YAML                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
 
 🔥 Editors: 
-Neovim                   18 hrs 30 mins      ███████████████████░░░░░░   77.38 % 
-Trae                     5 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
+Neovim                   20 hrs 41 mins      ████████████████████░░░░░   81.50 % 
+Trae                     4 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
 
 💻 Operating System: 
-Linux                    23 hrs 55 mins      █████████████████████████   100.00 % 
+Linux                    25 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/05/2026 19:31:58 UTC
+ Last Updated on 17/05/2026 19:28:23 UTC
 <!--END_SECTION:waka-->
