@@ -15,10 +15,10 @@ Coding and gaming！
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4831 commits        ████████░░░░░░░░░░░░░░░░░   31.19 % 
-🌆 Daytime                4079 commits        ███████░░░░░░░░░░░░░░░░░░   26.34 % 
-🌃 Evening                3780 commits        ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
-🌙 Night                  2798 commits        █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+🌞 Morning                4885 commits        ████████░░░░░░░░░░░░░░░░░   31.12 % 
+🌆 Daytime                4112 commits        ███████░░░░░░░░░░░░░░░░░░   26.19 % 
+🌃 Evening                3789 commits        ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
+🌙 Night                  2913 commits        █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
 ```
 
 
@@ -28,23 +28,22 @@ Coding and gaming！
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Go                       11 hrs 30 mins      █████████████░░░░░░░░░░░░   51.03 % 
-Markdown                 3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-TypeScript               2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Git Config               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-JavaScript               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Go                       11 hrs 30 mins      ██████████░░░░░░░░░░░░░░░   39.36 % 
+TypeScript               7 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   26.90 % 
+Markdown                 5 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+Git Config               1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+JavaScript               45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
 
 🔥 Editors: 
-Codex CLI                12 hrs 24 mins      ██████████████░░░░░░░░░░░   54.98 % 
-VS Code                  5 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
-Neovim                   3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Claude Code              38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
-Unknown Wakatime         7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+VS Code                  11 hrs 56 mins      ██████████░░░░░░░░░░░░░░░   40.81 % 
+Codex CLI                11 hrs 35 mins      ██████████░░░░░░░░░░░░░░░   39.64 % 
+Neovim                   4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Claude Code              1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
 
 💻 Operating System: 
-Mac                      22 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/07/2026 20:58:23 UTC
+ Last Updated on 04/07/2026 20:46:39 UTC
 <!--END_SECTION:waka-->
