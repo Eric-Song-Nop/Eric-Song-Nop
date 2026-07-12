@@ -15,10 +15,10 @@ Coding and gaming！
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4966 commits        ████████░░░░░░░░░░░░░░░░░   31.15 % 
-🌆 Daytime                4227 commits        ███████░░░░░░░░░░░░░░░░░░   26.51 % 
-🌃 Evening                3921 commits        ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
-🌙 Night                  2828 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+🌞 Morning                4966 commits        ████████░░░░░░░░░░░░░░░░░   31.17 % 
+🌆 Daytime                4227 commits        ███████░░░░░░░░░░░░░░░░░░   26.53 % 
+🌃 Evening                3920 commits        ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
+🌙 Night                  2820 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
 ```
 
 
@@ -28,15 +28,19 @@ Coding and gaming！
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   36.82 % 
+Go                       2 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
+TypeScript               1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Rust                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  11 hrs 13 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      11 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/07/2026 20:47:31 UTC
+ Last Updated on 12/07/2026 20:46:26 UTC
 <!--END_SECTION:waka-->
