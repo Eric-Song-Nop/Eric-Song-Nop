@@ -8,17 +8,17 @@ Coding and gaming！
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C516%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C517%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5009 commits        ████████░░░░░░░░░░░░░░░░░   31.27 % 
-🌆 Daytime                4232 commits        ███████░░░░░░░░░░░░░░░░░░   26.42 % 
-🌃 Evening                3922 commits        ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
-🌙 Night                  2856 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+🌞 Morning                5009 commits        ████████░░░░░░░░░░░░░░░░░   31.21 % 
+🌆 Daytime                4232 commits        ███████░░░░░░░░░░░░░░░░░░   26.37 % 
+🌃 Evening                3923 commits        ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+🌙 Night                  2886 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
 ```
 
 
@@ -28,19 +28,19 @@ Coding and gaming！
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Python                   4 hrs 8 mins        █████████████████░░░░░░░░   69.86 % 
-Go                       36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-Markdown                 35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Git Config               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+TypeScript               4 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   36.54 % 
+Python                   4 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   34.09 % 
+Markdown                 1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Go                       36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Rust                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 55 mins       █████████████████████████   100.00 % 
+VS Code                  12 hrs 7 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 55 mins       █████████████████████████   100.00 % 
+Mac                      12 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/07/2026 21:10:11 UTC
+ Last Updated on 14/07/2026 21:06:14 UTC
 <!--END_SECTION:waka-->
