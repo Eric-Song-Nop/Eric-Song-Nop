@@ -15,10 +15,10 @@ Coding and gaming！
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5604 commits        ████████░░░░░░░░░░░░░░░░░   31.99 % 
-🌆 Daytime                4640 commits        ███████░░░░░░░░░░░░░░░░░░   26.49 % 
-🌃 Evening                4157 commits        ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-🌙 Night                  3117 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+🌞 Morning                5695 commits        ████████░░░░░░░░░░░░░░░░░   32.17 % 
+🌆 Daytime                4683 commits        ███████░░░░░░░░░░░░░░░░░░   26.45 % 
+🌃 Evening                4175 commits        ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+🌙 Night                  3150 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
 ```
 
 
@@ -28,21 +28,21 @@ Coding and gaming！
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Koka                     17 hrs 3 mins       █████████░░░░░░░░░░░░░░░░   36.23 % 
-TypeScript               16 hrs 43 mins      █████████░░░░░░░░░░░░░░░░   35.54 % 
-Markdown                 4 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Python                   3 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-JavaScript               1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+Koka                     18 hrs 9 mins       █████████░░░░░░░░░░░░░░░░   36.86 % 
+TypeScript               16 hrs 43 mins      ████████░░░░░░░░░░░░░░░░░   33.97 % 
+Markdown                 5 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Python                   3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+JavaScript               1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 
 🔥 Editors: 
-VS Code                  46 hrs 26 mins      █████████████████████████   98.64 % 
-Codex CLI                33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+VS Code                  48 hrs 30 mins      █████████████████████████   98.48 % 
+Codex CLI                33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Neovim                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 💻 Operating System: 
-Mac                      47 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      49 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/07/2026 20:52:56 UTC
+ Last Updated on 20/07/2026 21:23:46 UTC
 <!--END_SECTION:waka-->
