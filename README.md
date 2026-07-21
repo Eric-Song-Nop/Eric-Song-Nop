@@ -17,7 +17,7 @@ Coding and gaming！
 ```text
 🌞 Morning                5695 commits        ████████░░░░░░░░░░░░░░░░░   32.17 % 
 🌆 Daytime                4683 commits        ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-🌃 Evening                4175 commits        ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+🌃 Evening                4176 commits        ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
 🌙 Night                  3150 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
 ```
 
@@ -28,21 +28,21 @@ Coding and gaming！
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Koka                     18 hrs 9 mins       █████████░░░░░░░░░░░░░░░░   36.86 % 
-TypeScript               16 hrs 43 mins      ████████░░░░░░░░░░░░░░░░░   33.97 % 
-Markdown                 5 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Python                   3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-JavaScript               1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Koka                     18 hrs 7 mins       ███████████░░░░░░░░░░░░░░   42.27 % 
+TypeScript               12 hrs 11 mins      ███████░░░░░░░░░░░░░░░░░░   28.40 % 
+Markdown                 3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Python                   3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+JavaScript               1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 
 🔥 Editors: 
-VS Code                  48 hrs 30 mins      █████████████████████████   98.48 % 
-Codex CLI                33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Neovim                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+VS Code                  42 hrs 9 mins       █████████████████████████   98.25 % 
+Codex CLI                33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Neovim                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-Mac                      49 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      42 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/07/2026 21:23:46 UTC
+ Last Updated on 21/07/2026 21:25:01 UTC
 <!--END_SECTION:waka-->
