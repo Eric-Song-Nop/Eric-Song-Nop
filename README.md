@@ -17,8 +17,8 @@ Coding and gaming！
 ```text
 🌞 Morning                5649 commits        ████████░░░░░░░░░░░░░░░░░   32.09 % 
 🌆 Daytime                4642 commits        ███████░░░░░░░░░░░░░░░░░░   26.37 % 
-🌃 Evening                4162 commits        ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-🌙 Night                  3152 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.90 % 
+🌃 Evening                4160 commits        ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
+🌙 Night                  3152 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
 ```
 
 
@@ -28,20 +28,20 @@ Coding and gaming！
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-TypeScript               8 hrs               ████████░░░░░░░░░░░░░░░░░   32.51 % 
-Koka                     5 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-Markdown                 3 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Python                   3 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-JavaScript               1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Markdown                 2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+TypeScript               2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+Python                   2 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+Koka                     1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+JavaScript               1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 55 mins      ███████████████████████░░   93.08 % 
-Neovim                   1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+VS Code                  10 hrs 33 mins      ██████████████████████░░░   86.11 % 
+Neovim                   1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
 
 💻 Operating System: 
-Mac                      24 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/07/2026 21:09:29 UTC
+ Last Updated on 25/07/2026 21:03:36 UTC
 <!--END_SECTION:waka-->
