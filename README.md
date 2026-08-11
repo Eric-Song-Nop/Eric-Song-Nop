@@ -17,10 +17,10 @@ Coding and gaming！
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                6335 commits        ████████░░░░░░░░░░░░░░░░░   32.63 % 
-🌆 Daytime                5212 commits        ███████░░░░░░░░░░░░░░░░░░   26.85 % 
-🌃 Evening                4542 commits        ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
-🌙 Night                  3326 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
+🌞 Morning                6501 commits        ████████░░░░░░░░░░░░░░░░░   30.53 % 
+🌆 Daytime                6123 commits        ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+🌃 Evening                5202 commits        ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
+🌙 Night                  3466 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
 ```
 
 
@@ -30,46 +30,46 @@ Coding and gaming！
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Markdown                 3 hrs 16 mins       ██████████████░░░░░░░░░░░   56.77 % 
-Python                   1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-TypeScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Koka                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Markdown                 3 hrs 12 mins       ██████████████░░░░░░░░░░░   56.35 % 
+Python                   1 hr 20 mins        ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+TypeScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Koka                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 17 mins       ██████████████░░░░░░░░░░░   56.82 % 
-Neovim                   1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   26.42 % 
-OMP                      58 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+VS Code                  3 hrs 12 mins       ██████████████░░░░░░░░░░░   56.19 % 
+Neovim                   1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+OMP                      58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 46 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 33 mins (95.97%)
+⏱ AI Coding Time: 5 hrs 28 mins (95.91%)
 
-✍️ 10,573 lines written by AI, 24 lines written by hand (99.77% AI-written)
+✍️ 10,569 lines written by AI, 24 lines written by hand (99.77% AI-written)
 
-🔤 5,625,382,509 Input Tokens, 21,950,629 Output Tokens
+🔤 5,624,843,910 Input Tokens, 21,946,547 Output Tokens
 
-💵 $17399.32 Estimated AI Cost This Week
+💵 $17397.64 Estimated AI Cost This Week
 
-🧠 154 AI Sessions, 193 AI Prompts
+🧠 147 AI Sessions, 181 AI Prompts
 
-GPT                      11,088 lines        ████████████████████████░   97.18 % 
+GPT                      11,088 lines        ████████████████████████░   97.20 % 
 OMP                      305 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-Deepseek                 17 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Deepseek                 14 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.77% of written lines came from AI
-📄 Detailed Prompter — average 880 characters per prompt
+📄 Detailed Prompter — average 906 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.45% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/08/2026 21:17:13 UTC
+ Last Updated on 11/08/2026 21:28:07 UTC
 <!--END_SECTION:waka-->
