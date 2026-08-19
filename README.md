@@ -17,10 +17,10 @@ Coding and gaming！
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                8781 commits        █████████░░░░░░░░░░░░░░░░   37.05 % 
-🌆 Daytime                6784 commits        ███████░░░░░░░░░░░░░░░░░░   28.62 % 
-🌃 Evening                4570 commits        █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-🌙 Night                  3566 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+🌞 Morning                8711 commits        █████████░░░░░░░░░░░░░░░░   37.02 % 
+🌆 Daytime                6702 commits        ███████░░░░░░░░░░░░░░░░░░   28.48 % 
+🌃 Evening                4562 commits        █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+🌙 Night                  3554 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
 ```
 
 
@@ -30,48 +30,48 @@ Coding and gaming！
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Markdown                 4 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   27.88 % 
-Rust                     1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-MoonBit                  1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-JavaScript               1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-TypeScript               1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+Markdown                 7 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   39.02 % 
+JavaScript               2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+MoonBit                  2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+TypeScript               1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+Rust                     1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
 
 🔥 Editors: 
-Codex Vscode             9 hrs 7 mins        ██████████████░░░░░░░░░░░   54.88 % 
-VS Code                  4 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   29.03 % 
-Neovim                   2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-OMP                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Codex Vscode             8 hrs 47 mins       ███████████░░░░░░░░░░░░░░   43.95 % 
+VS Code                  8 hrs 37 mins       ███████████░░░░░░░░░░░░░░   43.12 % 
+Neovim                   2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
 
 💻 Operating System: 
-Mac                      16 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 59 mins      █████████████████████████   99.95 % 
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 14 mins (97.63%)
+⏱ AI Coding Time: 19 hrs 36 mins (98.02%)
 
-✍️ 39,047 lines written by AI, 322 lines written by hand (99.18% AI-written)
+✍️ 48,463 lines written by AI, 322 lines written by hand (99.34% AI-written)
 
-🔤 307,796,194 Input Tokens, 36,885,662 Output Tokens
+🔤 685,933,523 Input Tokens, 78,254,141 Output Tokens
 
-💵 $8568.07 Estimated AI Cost This Week
+💵 $10451.27 Estimated AI Cost This Week
 
-🧠 111 AI Sessions, 151 AI Prompts
+🧠 180 AI Sessions, 293 AI Prompts
 
-GPT                      38,501 lines        ████████████████████████░   96.12 % 
-Codex-Vscode             1,520 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-OMP                      36 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-Kimi                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      47,819 lines        ████████████████████████░   96.12 % 
+Codex-Vscode             1,812 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Kimi                     102 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Deepseek                 15 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.18% of written lines came from AI
-📚 Verbose Prompter — average 2,442 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.82% of changed lines were hand-edited
+🤖 AI-Driven — 99.34% of written lines came from AI
+📚 Verbose Prompter — average 2,583 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.66% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/08/2026 21:23:16 UTC
+ Last Updated on 19/08/2026 21:19:52 UTC
 <!--END_SECTION:waka-->
