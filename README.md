@@ -17,10 +17,10 @@ Coding and gaming！
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                8873 commits        █████████░░░░░░░░░░░░░░░░   36.88 % 
-🌆 Daytime                6778 commits        ███████░░░░░░░░░░░░░░░░░░   28.17 % 
-🌃 Evening                4631 commits        █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-🌙 Night                  3775 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+🌞 Morning                9160 commits        █████████░░░░░░░░░░░░░░░░   37.15 % 
+🌆 Daytime                6900 commits        ███████░░░░░░░░░░░░░░░░░░   27.98 % 
+🌃 Evening                4696 commits        █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+🌙 Night                  3902 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
 ```
 
 
@@ -30,45 +30,43 @@ Coding and gaming！
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-TypeScript               8 hrs 5 mins        ███████████████████░░░░░░   77.41 % 
-Markdown                 1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-JavaScript               56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+TypeScript               8 hrs 1 min         ████████████████████░░░░░   81.88 % 
+Markdown                 1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-Neovim                   6 hrs 7 mins        ███████████████░░░░░░░░░░   58.58 % 
-Codex Vscode             4 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   40.07 % 
-OMP                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-Codex Exec               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Neovim                   6 hrs 6 mins        ████████████████░░░░░░░░░   62.20 % 
+Codex Vscode             3 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   37.80 % 
 
 💻 Operating System: 
-Mac                      10 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 27 mins (100.0%)
+⏱ AI Coding Time: 9 hrs 48 mins (100.0%)
 
 ✍️ 25,569 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 62,720,332 Input Tokens, 6,999,739 Output Tokens
+🔤 61,374,429 Input Tokens, 6,971,651 Output Tokens
 
-💵 $659.67 Estimated AI Cost This Week
+💵 $654.77 Estimated AI Cost This Week
 
-🧠 109 AI Sessions, 109 AI Prompts
+🧠 59 AI Sessions, 54 AI Prompts
 
 GPT                      26,149 lines        ████████████████████████░   97.98 % 
 Codex-Vscode             539 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,656 characters per prompt
+📚 Verbose Prompter — average 6,894 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/08/2026 04:13:03 UTC
+ Last Updated on 29/08/2026 23:17:50 UTC
 <!--END_SECTION:waka-->
