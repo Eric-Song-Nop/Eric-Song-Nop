@@ -17,10 +17,10 @@ Coding and gaming！
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                9294 commits        █████████░░░░░░░░░░░░░░░░   37.13 % 
-🌆 Daytime                6978 commits        ███████░░░░░░░░░░░░░░░░░░   27.88 % 
-🌃 Evening                4726 commits        █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-🌙 Night                  4034 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+🌞 Morning                8830 commits        █████████░░░░░░░░░░░░░░░░   36.87 % 
+🌆 Daytime                6787 commits        ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+🌃 Evening                4571 commits        █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+🌙 Night                  3764 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
 ```
 
 
@@ -30,40 +30,39 @@ Coding and gaming！
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-TypeScript               3 hrs 6 mins        ██████████████████████░░░   88.92 % 
-Markdown                 23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+TypeScript               53 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Codex Vscode             2 hrs 4 mins        ███████████████░░░░░░░░░░   59.45 % 
-Neovim                   1 hr 25 mins        ██████████░░░░░░░░░░░░░░░   40.55 % 
+Codex Vscode             37 mins             █████████████████░░░░░░░░   69.83 % 
+Neovim                   16 mins             ████████░░░░░░░░░░░░░░░░░   30.17 % 
 
 💻 Operating System: 
-Mac                      3 hrs 30 mins       █████████████████████████   100.00 % 
+Mac                      53 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 30 mins (100.0%)
+⏱ AI Coding Time: 53 mins (100.0%)
 
-✍️ 194 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 16 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,244,065 Input Tokens, 636,693 Output Tokens
+🔤 989,347 Input Tokens, 120,678 Output Tokens
 
-💵 $82.89 Estimated AI Cost This Week
+💵 $10.02 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 24 AI Prompts
+🧠 8 AI Sessions, 8 AI Prompts
 
-GPT                      727 lines           █████████████████████████   100.00 % 
+GPT                      416 lines           █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 6,737 characters per prompt
+📚 Verbose Prompter — average 10,609 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/09/2026 01:43:36 UTC
+ Last Updated on 02/09/2026 00:12:41 UTC
 <!--END_SECTION:waka-->
