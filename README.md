@@ -8,19 +8,19 @@ Coding and gaming！
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C584%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C584%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-474%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-475%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                8837 commits        █████████░░░░░░░░░░░░░░░░   36.80 % 
-🌆 Daytime                6794 commits        ███████░░░░░░░░░░░░░░░░░░   28.29 % 
-🌃 Evening                4577 commits        █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-🌙 Night                  3807 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+🌞 Morning                8837 commits        █████████░░░░░░░░░░░░░░░░   36.78 % 
+🌆 Daytime                6794 commits        ███████░░░░░░░░░░░░░░░░░░   28.28 % 
+🌃 Evening                4587 commits        █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+🌙 Night                  3809 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
 ```
 
 
@@ -30,21 +30,45 @@ Coding and gaming！
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    27 mins             █████████░░░░░░░░░░░░░░░░   36.15 % 
+Markdown                 22 mins             ███████░░░░░░░░░░░░░░░░░░   28.46 % 
+OCaml                    10 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Bash                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 
 🔥 Editors: 
-Neovim                   0 secs              █████████████████████████   100.00 % 
+Codex CLI                45 mins             ███████████████░░░░░░░░░░   58.20 % 
+VS Code                  32 mins             ██████████░░░░░░░░░░░░░░░   41.30 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 17 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 10 mins (91.0%)
+
+✍️ 251 lines written by AI, 25 lines written by hand (90.94% AI-written)
+
+🔤 336,548 Input Tokens, 55,520 Output Tokens
+
+💵 $11.83 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 30 AI Prompts
+
+GPT                      641 lines           ████████████████████████░   96.68 % 
+Kimi                     22 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 90.94% of written lines came from AI
+📝 Concise Prompter — average 428 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 10.24% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/09/2026 23:57:30 UTC
+ Last Updated on 05/09/2026 23:25:03 UTC
 <!--END_SECTION:waka-->
