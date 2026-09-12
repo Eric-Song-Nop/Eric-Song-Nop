@@ -17,10 +17,10 @@ Coding and gaming！
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                9146 commits        █████████░░░░░░░░░░░░░░░░   36.59 % 
-🌆 Daytime                7074 commits        ███████░░░░░░░░░░░░░░░░░░   28.30 % 
-🌃 Evening                4781 commits        █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
-🌙 Night                  3997 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+🌞 Morning                8802 commits        █████████░░░░░░░░░░░░░░░░   36.43 % 
+🌆 Daytime                6830 commits        ███████░░░░░░░░░░░░░░░░░░   28.27 % 
+🌃 Evening                4583 commits        █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+🌙 Night                  3946 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
 ```
 
 
@@ -37,9 +37,9 @@ Bash                     9 mins              ███░░░░░░░░�
 Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 
 🔥 Editors: 
-Codex CLI                45 mins             ██████████████░░░░░░░░░░░   57.97 % 
-VS Code                  32 mins             ██████████░░░░░░░░░░░░░░░   41.14 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Codex CLI                45 mins             ███████████████░░░░░░░░░░   58.26 % 
+VS Code                  32 mins             ██████████░░░░░░░░░░░░░░░   41.35 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 💻 Operating System: 
 Linux                    1 hr 17 mins        █████████████████████████   100.00 % 
@@ -54,12 +54,12 @@ Linux                    1 hr 17 mins        ███████████�
 
 🔤 336,548 Input Tokens, 55,520 Output Tokens
 
-💵 $11.83 Estimated AI Cost This Week
+💵 $9.48 Estimated AI Cost This Week
 
 🧠 8 AI Sessions, 30 AI Prompts
 
-GPT                      641 lines           ████████████████████████░   96.68 % 
-Kimi                     22 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+GPT                      241 lines           ███████████████████████░░   91.63 % 
+Kimi                     22 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
@@ -70,5 +70,5 @@ K                        0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 11/09/2026 00:17:40 UTC
+ Last Updated on 12/09/2026 00:36:05 UTC
 <!--END_SECTION:waka-->
