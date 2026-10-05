@@ -17,10 +17,10 @@ Coding and gaming！
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                8783 commits        █████████░░░░░░░░░░░░░░░░   36.34 % 
-🌆 Daytime                6817 commits        ███████░░░░░░░░░░░░░░░░░░   28.20 % 
-🌃 Evening                4548 commits        █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-🌙 Night                  4023 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
+🌞 Morning                8843 commits        █████████░░░░░░░░░░░░░░░░   35.87 % 
+🌆 Daytime                6968 commits        ███████░░░░░░░░░░░░░░░░░░   28.27 % 
+🌃 Evening                4679 commits        █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+🌙 Night                  4162 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
 ```
 
 
@@ -30,43 +30,21 @@ Coding and gaming！
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Markdown                 1 hr 23 mins        ████████████░░░░░░░░░░░░░   48.63 % 
-Rust                     40 mins             ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-Python                   22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-TypeScript               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             1 hr 29 mins        █████████████░░░░░░░░░░░░   52.47 % 
-VS Code                  1 hr 21 mins        ████████████░░░░░░░░░░░░░   47.53 % 
+Codex Vscode             1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 50 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 50 mins (100.0%)
-
-✍️ 7,068 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 8,848,352 Input Tokens, 1,098,313 Output Tokens
-
-💵 $429.37 Estimated AI Cost This Week
-
-🧠 20 AI Sessions, 49 AI Prompts
-
-GPT                      7,127 lines         █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 156 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 04/10/2026 01:10:15 UTC
+ Last Updated on 05/10/2026 01:14:09 UTC
 <!--END_SECTION:waka-->
