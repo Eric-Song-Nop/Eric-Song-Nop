@@ -17,10 +17,10 @@ Coding and gaming！
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                8999 commits        █████████░░░░░░░░░░░░░░░░   36.04 % 
-🌆 Daytime                7066 commits        ███████░░░░░░░░░░░░░░░░░░   28.30 % 
-🌃 Evening                4632 commits        █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-🌙 Night                  4272 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+🌞 Morning                9149 commits        █████████░░░░░░░░░░░░░░░░   35.90 % 
+🌆 Daytime                7189 commits        ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+🌃 Evening                4716 commits        █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+🌙 Night                  4432 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
 ```
 
 
@@ -30,48 +30,44 @@ Coding and gaming！
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Markdown                 5 hrs 52 mins       ███████████████░░░░░░░░░░   60.42 % 
-Zig                      1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-Rust                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-Text                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Markdown                 1 hr 19 mins        ███████████░░░░░░░░░░░░░░   44.47 % 
+Rust                     1 hr 13 mins        ██████████░░░░░░░░░░░░░░░   41.14 % 
+Text                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Zig                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 49 mins       ███████████████████████░░   90.82 % 
-Neovim                   53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Claude Code              2 hrs 3 mins        ██████████████████░░░░░░░   71.62 % 
+Neovim                   49 mins             ███████░░░░░░░░░░░░░░░░░░   28.38 % 
 
 💻 Operating System: 
-Mac                      7 hrs 28 mins       ███████████████████░░░░░░   76.95 % 
-Linux                    2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
+Linux                    2 hrs 7 mins        ██████████████████░░░░░░░   73.92 % 
+Mac                      45 mins             ███████░░░░░░░░░░░░░░░░░░   26.08 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 17 mins (95.53%)
+⏱ AI Coding Time: 2 hrs 26 mins (84.91%)
 
-✍️ 1,379 lines written by AI, 23 lines written by hand (98.36% AI-written)
+✍️ 629 lines written by AI, 23 lines written by hand (96.47% AI-written)
 
-🔤 62,950,085 Input Tokens, 816,817 Output Tokens
+🔤 61,328,599 Input Tokens, 357,891 Output Tokens
 
-💵 $704.94 Estimated AI Cost This Week
+💵 $624.02 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 100 AI Prompts
+🧠 10 AI Sessions, 33 AI Prompts
 
-Opus                     701 lines           █████████████░░░░░░░░░░░░   50.83 % 
-Claude                   629 lines           ███████████░░░░░░░░░░░░░░   45.61 % 
-Fable                    49 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+Claude                   625 lines           █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.36% of written lines came from AI
-📝 Concise Prompter — average 398 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.71% of changed lines were hand-edited
+🤖 AI-Driven — 96.47% of written lines came from AI
+📝 Concise Prompter — average 83 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 3.68% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/10/2026 00:48:16 UTC
+ Last Updated on 24/10/2026 00:33:17 UTC
 <!--END_SECTION:waka-->
