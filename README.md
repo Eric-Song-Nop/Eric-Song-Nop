@@ -8,19 +8,19 @@ Coding and gaming！
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C600%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C601%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-491%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-492%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                9432 commits        █████████░░░░░░░░░░░░░░░░   35.71 % 
-🌆 Daytime                7388 commits        ███████░░░░░░░░░░░░░░░░░░   27.97 % 
-🌃 Evening                4860 commits        █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-🌙 Night                  4733 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+🌞 Morning                9437 commits        █████████░░░░░░░░░░░░░░░░   35.72 % 
+🌆 Daytime                7394 commits        ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+🌃 Evening                4859 commits        █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+🌙 Night                  4731 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
 ```
 
 
@@ -30,35 +30,41 @@ Coding and gaming！
 🕑︎ Time Zone: Europe/Amsterdam
 
 💬 Programming Languages: 
-Other                    0 secs              █████████████████████████   100.00 % 
+Markdown                 14 mins             ████████████░░░░░░░░░░░░░   49.61 % 
+Other                    8 mins              ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+TypeScript               7 mins              ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+Claude Code              21 mins             ██████████████████░░░░░░░   73.15 % 
+Neovim                   8 mins              ███████░░░░░░░░░░░░░░░░░░   26.85 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+Mac                      29 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (100.0%)
+⏱ AI Coding Time: 29 mins (100.0%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 113 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 679,128 Input Tokens, 44,062 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $10.19 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 2 AI Prompts
+🧠 3 AI Sessions, 18 AI Prompts
+
+Opus                     115 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 857 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 134 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/10/2026 01:46:03 UTC
+ Last Updated on 29/10/2026 01:59:45 UTC
 <!--END_SECTION:waka-->
